@@ -30,7 +30,8 @@ const allowedOrigins = [
   "http://localhost:5173",
   "https://backend.confworld.org",
   "https://icsteet.com",
-  "http://icsteet.com" // Add HTTP version too
+  "http://icsteet.com",
+  "https://icsteet.infinityuniquers.com"// Add HTTP version too
 ];
 
 app.use(cors({
